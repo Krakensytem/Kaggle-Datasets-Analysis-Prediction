@@ -1,2 +1,2 @@
 # Kaggle-Datasets-Analysis-and-Prediction
-This project is dedicated to performing analysis and predictions on Kaggle datasets. Jupyter notebooks will be added from Kaggle platform over time.
+This jupyter notebook implement, on a small scale, a ML solution, starting from reading and preparing the data, to performing the classification and evaluating the result. The attached data, which is available on [kkaggle] (https://www.kaggle.com/prakharrathi25/banking-dataset-marketing-targets) , consists of several features describing both personal and financial attributes of an individual. Regarding the ML solution, it is implemented a binary classification to predict this classification.
