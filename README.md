@@ -1,7 +1,7 @@
 # Kaggle-Datasets-Analysis-and-Prediction
 This jupyter notebook implement, on a small scale, a ML solution, starting from reading and preparing the data, to performing the classification and evaluating the result. The attached data, which is available on [kaggle](https://www.kaggle.com/prakharrathi25/banking-dataset-marketing-targets), consists of several features describing both personal and financial attributes of an individual. Regarding the ML solution, it is implemented a binary classification to predict this classification. 
 
-Below is presented the overall structured of the financial dataset analysis of a Portuguese bank which is completely documented in banking-dataset-analysis.pdf
+Below is presented the overall structured of the financial dataset analysis of a Portuguese bank which is completely documented in banking-dataset-analysis.ipynb
 
 1.  #### Preparation and cleaning of data.
 This consists of reading the data, search for missings and duplicates, and pre-processing it, to prepare the structure and data format required for the ingestion to the ML model. Regarding the Pearson Correlation coefficient was found there is no correlation, no relationship between the independent variables.
