@@ -9,12 +9,12 @@ This consists of reading the data, search for missings and duplicates, and pre-p
 <img width="991" alt="Screenshot 2022-02-09 at 17 35 13" src="https://user-images.githubusercontent.com/37784203/153262357-f9a1f9ab-09e0-4a2f-a5fa-5b402036e438.png">
 
 2. #### Processing, Visualisation and data analysis
-It is presented a brief Data Exploration and Visualisation: A Bivariate analysis and plots of each feature by target Y (which specifies whether the individual proceeded with a “term deposit” or not). 
+It is presented a brief Data Exploration and Visualisation: A Bivariate analysis and plots of each feature by target Y (which specifies whether the individual proceeded with a "term deposit" or not). 
     * Categorical data: *job feature*: The bank contacted more on people with professional profiles. Most of the term deposit takers have a high qualification with regards to others.
 
 <img width="407" alt="Screenshot 2022-02-09 at 18 13 38" src="https://user-images.githubusercontent.com/37784203/153262425-3de68f8d-9cda-4736-b522-23292ec5b843.png">
 
-    * Numerical data: *age feature*. This function shows the relationship between "age" and the categorical target variable using a box visual representations. Furthermore, the histogram displays a bell-shaped image, presents below, that has a left-shifted normal distribution. The population group is between 20 and 60. The box-plot shows an specific targeted age group between 30 and 50. Probably, because is when people are more productive and stable. This trend become stronger if we take into consideration the job feature. Bivariate analysis is great because it shows to the call center that they need to target a definite segment of customers.
+   * Numerical data: *age feature*. This function shows the relationship between "age" and the categorical target variable using a box visual representations. Furthermore, the histogram displays a bell-shaped image, presents below, that has a left-shifted normal distribution. The population group is between 20 and 60. The box-plot shows an specific targeted age group between 30 and 50. Probably, because is when people are more productive and stable. This trend become stronger if we take into consideration the job feature. Bivariate analysis is great because it shows to the call center that they need to target a definite segment of customers.
 
 <img width="416" alt="Screenshot 2022-02-09 at 18 43 41" src="https://user-images.githubusercontent.com/37784203/153262442-b69d63b4-4c0d-4df9-8043-87c94c0a80a2.png">
     
